@@ -2,6 +2,12 @@
 
 A PyQt5-based application that allows you to compose custom LaTeX reports by selecting components from existing LaTeX files.
 
+## Demo
+
+Watch the demo video on YouTube:  
+📺 [LaTeX Report Composer - Demo](https://youtu.be/YD7eI3nGruE)
+
+
 ![LaTeX Report Composer Screenshot 1](https://github.com/shubhamsahu03/LaTex-Report-Composer/blob/main/images/Screenshot%202025-04-05%20122642.png)
 ![LaTeX Report Composer Screenshot 2](https://github.com/shubhamsahu03/LaTex-Report-Composer/blob/main/images/Screenshot%202025-04-05%20122824.png)
 
